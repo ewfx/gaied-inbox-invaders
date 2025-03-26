@@ -77,6 +77,6 @@ The project is built using Python and Streamlit, integrating multiple libraries 
 
 ## 👥 Team
 - **Omkar Ghugarkar** - [GitHub](https://github.com/omkarghugarkar007) | [LinkedIn](https://www.linkedin.com/in/omkar-ghugarkar-94b897194/)
-- **Sahil Kedare** - [GitHub](#) | [LinkedIn](#)
-- **Vishal Dange** - [GitHub](#) | [LinkedIn](#)
-- **Sushmey Nirmal** - [GitHub](#) | [LinkedIn](#)
+- **Sahil Kedare** - [GitHub](https://github.com/sahilkedare) | [LinkedIn](https://www.linkedin.com/in/sahil-kedare-4b89031aa/)
+- **Vishal Dange** - [GitHub](https://github.com/vishalbdange) | [LinkedIn](https://www.linkedin.com/in/vishalbdange/)
+- **Sushmey Nirmal** - [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/sushmey/)
