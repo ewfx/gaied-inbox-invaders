@@ -1,0 +1,7 @@
+google-genai
+streamlit
+google-generativeai
+python-dotenv
+pypdf
+python-docx
+extract-msg

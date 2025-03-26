@@ -1,0 +1,22 @@
+Money Movement Requests (Inbound/Outbound), Loan Account Number
+Money Movement Requests (Inbound/Outbound), Deal Name
+Money Movement Requests (Inbound/Outbound), Transaction Amount
+Money Movement Requests (Inbound/Outbound), Currency Type
+Money Movement Requests (Inbound/Outbound), Effective Date
+Money Movement Requests (Inbound/Outbound), Payment Mode (Wire, ACH, Check, etc.)
+Money Movement Requests (Inbound/Outbound), Beneficiary Bank Details
+Money Movement Requests (Inbound/Outbound), Reference Number
+Adjustments (Reallocation;Fees;Amendments;Commitment Changes), Adjustment Type (Reallocation, Increase, Decrease, etc.)
+Adjustments (Reallocation;Fees;Amendments;Commitment Changes), Fee Type (Ongoing Fee, Letter of Credit Fee, etc.)
+Adjustments (Reallocation;Fees;Amendments;Commitment Changes), Reallocation Amount
+Adjustments (Reallocation;Fees;Amendments;Commitment Changes), Original vs. Updated Principal
+Adjustments (Reallocation;Fees;Amendments;Commitment Changes), Reason for Adjustment
+Interest & Principal Payments, Loan ID / Loan Account
+Interest & Principal Payments, Amount Due / Paid
+Interest & Principal Payments, Payment Date
+Interest & Principal Payments, Breakdown of Principal vs. Interest
+Interest & Principal Payments, Penalty or Late Fee Details
+Letter of Credit (LOC) Fees, LOC Reference Number
+Letter of Credit (LOC) Fees, LOC Amount
+Letter of Credit (LOC) Fees, Issuance Date & Expiry Date
+Letter of Credit (LOC) Fees, Fee Payment Type
