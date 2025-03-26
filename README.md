@@ -61,7 +61,10 @@ The project is built using Python and Streamlit, integrating multiple libraries 
    ```sh
    pip install -r requirements.txt
    ```
-3. Run the project  
+3. Run the project
+   
+   Go to code/src then
+    
    ```sh
    python -m streamlit run app.py
    ```
@@ -74,4 +77,6 @@ The project is built using Python and Streamlit, integrating multiple libraries 
 
 ## 👥 Team
 - **Omkar Ghugarkar** - [GitHub](https://github.com/omkarghugarkar007) | [LinkedIn](https://www.linkedin.com/in/omkar-ghugarkar-94b897194/)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Sahil Kedare** - [GitHub](#) | [LinkedIn](#)
+- **Vishal Dange** - [GitHub](#) | [LinkedIn](#)
+- **Sushmey Nirmal** - [GitHub](#) | [LinkedIn](#)
