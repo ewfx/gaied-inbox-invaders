@@ -73,5 +73,5 @@ The project is built using Python and Streamlit, integrating multiple libraries 
 - 🔹 Environment: python-dotenv
 
 ## 👥 Team
-- **Your Name** - [GitHub](https://github.com/omkarghugarkar007) | [LinkedIn](https://www.linkedin.com/in/omkar-ghugarkar-94b897194/)
+- **Omkar Ghugarkar** - [GitHub](https://github.com/omkarghugarkar007) | [LinkedIn](https://www.linkedin.com/in/omkar-ghugarkar-94b897194/)
 - **Teammate 2** - [GitHub](#) | [LinkedIn](#)
