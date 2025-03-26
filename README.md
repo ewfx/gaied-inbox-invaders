@@ -18,7 +18,7 @@ This project is designed to extract structured information from email files. By 
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+📹 [Video Demo](https://github.com/ewfx/gaied-inbox-invaders/commit/b37cad9b7c10b4bc77f5ece6d7fcaf53971e784f) (if applicable)  
 🖼️ Screenshots:
 
 ![Screenshot 1](link-to-image)
