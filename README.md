@@ -21,7 +21,7 @@ This project is designed to extract structured information from email files. By 
 📹 [Video Demo](https://youtu.be/tFfvct76KJM) (if applicable)  
 🖼️ Screenshots:
 
-![Screenshot 1](https://github.com/ewfx/gaied-inbox-invaders/commit/a90b1d21ebe8274760dd857cc2bb6685ece409ce)
+![Screenshot 1](artifacts/demo/output_json_ss.png)
 
 ## 💡 Inspiration
 The project was inspired by the need to efficiently handle diverse email formats and extract actionable information without manual intervention. The goal is to reduce processing time and minimize errors by automating data extraction from emails.
