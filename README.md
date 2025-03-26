@@ -63,7 +63,7 @@ The project is built using Python and Streamlit, integrating multiple libraries 
    ```
 3. Run the project  
    ```sh
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
 
 ## 🏗️ Tech Stack
